@@ -20,6 +20,11 @@ div {
     margin: 35px;
 }
 
+#about {
+    margin-top: 20px;
+    margin-left: 400px;
+}
+
 #card {
     background-color: #808080;
     width: 380px;
