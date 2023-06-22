@@ -5,7 +5,7 @@ body {
     font-family: Arial, Helvetica, sans-serif; color: white;
     text-align: justify;
 }
-div {
+span {
     background-color: rgb(34, 34, 34);
     border: 2px;
     border-radius: 15px;
