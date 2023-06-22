@@ -9,9 +9,20 @@ div {
     background-color: rgb(34, 34, 34);
     border: 2px;
     border-radius: 15px;
+    padding: 25px;
+    width: 800px;
 }
-div#cardlateral {
+#cardlateral {
     height: 395px;
     width: 295px;
     border-radius: 10px;
+    padding: 25px;
+    margin: 35px;
+}
+
+#card {
+    background-color: #808080;
+    width: 380px;
+    border: 3px;
+    color: aliceblue;
 }
