@@ -57,6 +57,6 @@ div {
 #service-list {
     list-style-type: none;
 }
-footer {
+footer > p {
     text-align: center;
 }
