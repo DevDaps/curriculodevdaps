@@ -13,6 +13,8 @@ body {
 #menu-header li{
     display: inline;
     padding: 10px;
+    text-decoration: none;color: azure;
+    
 }
 
 h1 {
