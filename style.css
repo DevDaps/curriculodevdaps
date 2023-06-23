@@ -51,6 +51,6 @@ div {
     color: aliceblue;
 }
 
-#card {
+#servico-item li{
     list-style-type: none;
 }
