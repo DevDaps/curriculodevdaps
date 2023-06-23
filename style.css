@@ -27,3 +27,8 @@ body {
     text-align: center;
     padding: 10px;
 }
+
+#barra-redes {
+    list-style-type: none;
+    display: inline;
+}
