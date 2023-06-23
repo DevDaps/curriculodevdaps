@@ -22,3 +22,7 @@ body {
     width: 100px;
     padding: 25px;
 }
+
+#sidebar-info {
+    text-align: center;
+}
