@@ -8,12 +8,12 @@ body {
 
 #menu-header {
     list-style-type: none;
+    text-decoration: none;color: azure;
 }
 
 #menu-header li{
     display: inline;
     padding: 10px;
-    text-decoration: none;color: azure;
     
 }
 
