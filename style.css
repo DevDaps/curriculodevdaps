@@ -15,48 +15,4 @@ body {
 #menu-header li{
     display: inline;
     padding: 10px;
-    
-}
-
-h1 {
-    font-size: 18px;
-}
-
-h2 {
-    font-size: 15px;
-}
-
-div {
-    background-color: rgb(34, 34, 34);
-    border: 2px;
-    border-radius: 15px;
-    padding: 50px;
-    width: 600px;
-}
-#cardlateral {
-    height: 411px;
-    width: 249px;
-    border-radius: 10px;
-    padding: 20px;
-    margin: 20px;
-}
-
-#about {
-    margin: -496px 20px 100px 344px;
-
-}
-
-#card {
-    background-color: #808080;
-    height: 50px;
-    width: 300px;
-    border: 3px;
-    color: aliceblue;
-}
-
-#service-list {
-    list-style-type: none;
-}
-footer > p {
-    text-align: center;
 }
