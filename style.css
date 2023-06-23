@@ -16,7 +16,9 @@ body {
     display: inline;
     padding: 10px;
 }
+
 #sidebar {
-    background-color: #1E1E1E;
-    width: 80px;
+    background-color: #3b3b3b;
+    width: 100px;
+    padding: 10px;
 }
