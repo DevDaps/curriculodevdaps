@@ -50,3 +50,7 @@ div {
     border: 3px;
     color: aliceblue;
 }
+
+#card {
+    list-style-type: none;
+}
