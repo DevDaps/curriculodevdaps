@@ -8,6 +8,6 @@
     text-decoration: none;
     font-family: Popins, Helvetica, sans-serif;
 }
-
-<!-- Classe inicia-se com ponto -->
-
+.separador {
+    padding: 20px;
+}
