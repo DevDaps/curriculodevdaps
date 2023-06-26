@@ -13,9 +13,10 @@
 
 .separador {
     padding: 20px;
+    margin: 3px;
 }
 
-.menu-header {
+.menu-header li {
     list-style-type: none;
     display: inline;
 }
@@ -23,8 +24,17 @@
 .sidebar {
     padding: 25px;
 }
+
+.lista-sidebar {
+    list-style: none;
+}
 .redes-sociais {
     list-style-type: none;
     display: inline;
     padding: 45px;
+}
+
+footer {
+    align-content: center;
+    color: #E3B100;
 }
