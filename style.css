@@ -12,7 +12,7 @@
     padding: 20px;
 }
 
-#menu-header {
+.menu-header {
     list-style-type: none;
     display: inline;
 }
@@ -21,5 +21,7 @@
     padding: 25px;
 }
 .redes-sociais {
+    list-style-type: none;
+    display: inline;
     padding: 45px;
 }
