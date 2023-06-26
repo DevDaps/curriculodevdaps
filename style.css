@@ -11,3 +11,7 @@
 .separador {
     padding: 20px;
 }
+
+.menu-header {
+    list-style-type: none;
+}
