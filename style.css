@@ -24,8 +24,8 @@
     list-style: none;
 }
 .redes-sociais {
-    list-style-type: none;
-    display: inline;
+    list-style: none;
+    display: inline-block;
     padding: 45px;
 }
 
