@@ -53,6 +53,9 @@ aside {
 #barra-redes {
     display: inline;
 }
+#icon-email {
+    background-color: aqua;
+}
 
 #about {
     background-color: #992828;
