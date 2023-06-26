@@ -11,12 +11,7 @@
     background-color: #121212;
 }
 
-.separador {
-    padding: 20px;
-    margin: 3px;
-}
-
-.menu-header li {
+.menu-header {
     list-style-type: none;
     display: inline;
 }
