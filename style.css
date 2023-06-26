@@ -46,6 +46,10 @@ aside {
     padding: 40px;
 }
 
+#lista-ctt ul {
+    list-style-type: none;
+}
+
 #barra-redes {
     display: inline;
 }
