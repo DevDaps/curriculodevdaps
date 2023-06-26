@@ -12,7 +12,7 @@
     padding: 20px;
 }
 
-.menu-header {
+#menu-header {
     list-style-type: none;
     display: inline;
 }
