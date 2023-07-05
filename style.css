@@ -19,6 +19,6 @@ hr {
     max-width: 100px;
 }
 
-nav {
+nav ul li {
     display: inline-block;
 }
