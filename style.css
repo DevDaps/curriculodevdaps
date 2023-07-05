@@ -18,3 +18,7 @@
 hr {
     max-width: 100px;
 }
+
+nav {
+    display: inline-block;
+}
