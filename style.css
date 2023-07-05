@@ -11,8 +11,7 @@
     background-color: black;
 }
 
-.nav ul {
-    list-style-type: none;
-    display: inline;
-    padding: 10px;
+nav ul {
+    display: inline-block;
+    float: right;
 }
