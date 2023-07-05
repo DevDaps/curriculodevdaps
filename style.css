@@ -47,13 +47,6 @@ body {
     display: inline;
     padding: 5px;
 }
-article: about {
-    background-color: #1E1E1F;
-    display: block;
-    padding: 30px;
-    border: 1px;
-    border-radius: 20px;
-}
 
 .service {
     list-style: none;
