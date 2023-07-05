@@ -10,3 +10,8 @@
     color: white;
     background-color: black;
 }
+
+nav ul {
+    list-style-type: none;
+    display: inline;
+}
