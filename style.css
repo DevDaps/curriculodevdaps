@@ -11,7 +11,7 @@
     background-color: black;
 }
 
-nav ul {
+.nav ul {
     list-style-type: none;
     display: inline;
     padding: 10px;
