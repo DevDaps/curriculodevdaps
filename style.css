@@ -14,3 +14,32 @@
 .barralateral {
     background-color: #1E1E1F;
 }
+
+article {
+    float: left;
+    padding-left: 30%;
+    width: 70%;
+}
+
+.service li {
+    list-style-type: none;
+}
+
+.myservice {
+    padding-top: 6%;
+    padding-bottom: 15%;
+}
+
+.sobre {
+    padding-bottom: 15%;
+}
+
+aside {
+    max-width: 250px;
+    padding: -10px;
+}
+
+aside ul {
+    background-color: transparent;
+    list-style-type: none;
+}
