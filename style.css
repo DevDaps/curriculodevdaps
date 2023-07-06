@@ -9,10 +9,6 @@
     font-family: Popins, Helvetica, sans-serif;
     color: white;
     background-color: black;
-    
-}
-body {
-    background-color: #121212;
 }
 
 .nav-menu {
@@ -47,16 +43,12 @@ body {
     display: inline;
     padding: 5px;
 }
-
-.service {
-    list-style: none;
+.barralateral {
+    background-color: #1E1E1F;
 }
 
-footer {
-    align-content: center;
-    color: #E3B100;
-}
-
-#service li {
-    display: inline-block;
+hr {
+    max-width: 100px;
+    margin: 10%;
+    margin: 10%;
 }
