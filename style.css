@@ -11,44 +11,6 @@
     background-color: black;
 }
 
-.nav-menu {
-    display: inline;
-}
-
-#menu-header li {
-    list-style: none;
-    display: inline-block; 
-    padding: 10px; 
-}
-
-.sidebar {
-    max-width: 250px;
-    padding: 15px;
-    
-}
-
-.lista-sidebar {
-    
-    list-style: none;
-    padding: 5px;
-}
-.redes-sociais {
-    list-style: none;
-    display: inline-block;
-    padding: 45px;
-}
-
-.redes-sociais li {
-    list-style: none;
-    display: inline;
-    padding: 5px;
-}
 .barralateral {
     background-color: #1E1E1F;
-}
-
-hr {
-    max-width: 100px;
-    margin: 10%;
-    margin: 10%;
 }
