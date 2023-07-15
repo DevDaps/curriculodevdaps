@@ -39,8 +39,7 @@ aside {
 }
 
 aside {
-    max-width: 250px;
-    padding-left: -20px;
+    padding-left: 10%;
 }
 
 aside ul {
