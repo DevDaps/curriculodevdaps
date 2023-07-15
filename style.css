@@ -35,6 +35,9 @@ article {
 }
 
 aside {
+    position: absolute;
+    top: 50%;
+    left: 50%;
     max-width: 250px;
     padding: -20px;
 }
