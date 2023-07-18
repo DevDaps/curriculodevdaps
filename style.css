@@ -11,18 +11,24 @@
     background-color: black;
 }
 
+nav ul {
+    display: inline-block;
+
+}
+
 .barralateral {
     background-color: #1E1E1F;
 }
 
 article {
-    float: left;
-    padding-left: 30%;
+    padding-left: 5%;
     width: 70%;
 }
 
 .service li {
     list-style-type: none;
+    background-color: #D9D9D9;
+    border-radius: 17px;
 }
 
 .myservice {
@@ -30,16 +36,32 @@ article {
     padding-bottom: 15%;
 }
 
-.sobre {
+#sobremim {
+    max-width: 925px;
     padding-bottom: 15%;
 }
 
-aside {
+#barralateral {
+    position: absolute;
+    background-color: #1E1E1F;
+    border-radius: 30px;
+    padding: 15px;
     max-width: 250px;
-    padding: -10px;
+    margin-left: 100px;
+    }
+
+#barralateral ul {
+    list-style-type: none;
+    padding: 10px;
+    background-color: transparent;
 }
 
-aside ul {
+#barralateral ul li {
     background-color: transparent;
-    list-style-type: none;
+    display: inline-block;
+}
+
+section {
+    position: absolute;
+    left: 450px;
 }
