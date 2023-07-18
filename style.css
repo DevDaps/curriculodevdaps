@@ -61,6 +61,15 @@ article {
     display: inline-block;
 }
 
+#portfa {
+    padding: 10px;
+}
+
+#portfa li {
+    background-color: #1E1E1F;
+    padding: 10px;
+}
+
 section {
     position: absolute;
     left: 450px;
