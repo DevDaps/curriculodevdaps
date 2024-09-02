@@ -15,3 +15,7 @@ nav ul {
     display: inline-block;
 
 }
+
+article {
+    background-color: aqua;
+}
