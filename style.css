@@ -17,6 +17,7 @@ nav ul {
 }
 
 aside {
+    display: flex;
     background-color: #434242;
 }
 
