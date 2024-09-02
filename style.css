@@ -16,6 +16,10 @@ nav ul {
 
 }
 
+aside {
+    background-color: #434242;
+}
+
 article {
     background-color: aqua;
 }
